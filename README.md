@@ -25,8 +25,9 @@
 ,pat Pat someone Usage: ,pat >@user><br>
 ,feed Feed someone Usage: ,feed >@user> </p>
 
->,pat Pat someone Usage: ,pat >@user><br>
-,cuddle Cuddle with someone Usage: ,hug >@user><br>
+>,hug Hug someone Usage: ,hug >@user><br>
+,pat Pat someone Usage: ,pat >@user><br>
+,cuddle Cuddle with someone Usage: ,cuddle >@user><br>
 ,kiss Kiss someone Usage: ,kiss >@user><br>
 ,slap Slap someone Usage: ,slap >@user> </p>
 
