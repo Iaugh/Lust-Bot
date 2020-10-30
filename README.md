@@ -33,7 +33,6 @@
 ,slap Slap someone Usage: ,slap >@user> </p>
 
 >,8ball 8ball a question Usage: ,8ball >question> <br>
-,giphy Get a giphy Usage: ,giphy >name of gif> <br>
 ,urban Gives you a definition Usage: ,urban >word> <br>
 ,invite Invite the bot to your server Usage: ,invite <br>
 ,snipe Snipes a deleted message Usage: ,snipe </p>
