@@ -14,8 +14,8 @@
 ,unmute Unmute a user Usage: ,mute >@user> >reason><br>
 ,softban Bans a user from the server Usage: ,softban >@user> >reason> </p>
 
->,ar Give a user a role Usage: ,ar >@user> >role> <br>
-,av Gives you someone's avatar Usage: ,avatar >@user> <br>
+>,addrole Give someone a role ,addrole >@user> >rolename><br>
+,removerole Take away a role ,removerole >@user> >rolename><br>
 ,serverinfo Gives you the server info Usage: ,serverinfo<br>
 ,ping Gives you the ping of the bot Usage: ,ping<br>
 ,userinfo Gives you the user info Usage: ,userinfo </p>
