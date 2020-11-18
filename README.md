@@ -14,7 +14,7 @@
 ,mute Mute a user Usage: ,mute >@user> >reason><br>
 ,unmute Unmute a user Usage: ,mute >@user> >reason><br>
 ,softban Bans a user from the server Usage: ,softban >@user> >reason> <br>
-,addrole Give someone a role ,addrole >@user> >rolename><br>
+,giverole Give someone a role ,addrole >@user> >rolename><br>
 ,removerole Take away a role ,removerole >@user> >rolename><br>
 
 <t>Info</t>
