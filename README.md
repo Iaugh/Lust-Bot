@@ -18,7 +18,7 @@
 ,removerole Take away a role ,removerole >@user> >rolename><br>
 
 <t>Info</t>
->,botinfo Gives you the bot info Usage: ,botinfo
+>,botinfo Gives you the bot info Usage: ,botinfo<br>
 ,serverinfo Gives you the server info Usage: ,serverinfo<br>
 ,ping Gives you the ping of the bot Usage: ,ping<br>
 ,userinfo Gives you the user info Usage: ,userinfo<br>
