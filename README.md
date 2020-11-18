@@ -13,7 +13,7 @@
 ,bans Shows amount of bans Usage: ,bans<br>
 ,mute Mute a user Usage: ,mute >@user> >reason><br>
 ,unmute Unmute a user Usage: ,mute >@user> >reason><br>
-,softban Bans a user from the server Usage: ,softban >@user> >reason> </p>
+,softban Bans a user from the server Usage: ,softban >@user> >reason> <br>
 ,addrole Give someone a role ,addrole >@user> >rolename><br>
 ,removerole Take away a role ,removerole >@user> >rolename><br>
 
@@ -21,25 +21,25 @@
 >,botinfo Gives you the bot info Usage: ,botinfo
 ,serverinfo Gives you the server info Usage: ,serverinfo<br>
 ,ping Gives you the ping of the bot Usage: ,ping<br>
-,userinfo Gives you the user info Usage: ,userinfo </p>
+,userinfo Gives you the user info Usage: ,userinfo<br>
 
 <t>Fun</t>
 >,coinflip Flips the coin Usage: ,coinflip<br>
 ,cat Shows a random cat pic Usage: ,cat<br>
-,dog Shows a random cat pic Usage: ,kiss >@user> <br>
+,dog Shows a random cat pic Usage: ,kiss >@user><br>
 ,pat Pat someone Usage: ,pat >@user><br>
-,feed Feed someone Usage: ,feed >@user> </p>
+,feed Feed someone Usage: ,feed >@user><br>
 ,hug Hug someone Usage: ,hug >@user><br>
 ,pat Pat someone Usage: ,pat >@user><br>
 ,cuddle Cuddle with someone Usage: ,cuddle >@user><br>
 ,kiss Kiss someone Usage: ,kiss >@user><br>
-,slap Slap someone Usage: ,slap >@user> </p>
+,slap Slap someone Usage: ,slap >@user> <br>
 
 <t>Misc</t>
 >,8ball 8ball a question Usage: ,8ball >question> <br>
 ,urban Gives you a definition Usage: ,urban >word> <br>
 ,invite Invite the bot to your server Usage: ,invite <br>
-,snipe Snipes a deleted message Usage: ,snipe </p>
+,snipe Snipes a deleted message Usage: ,snipe <br>
 
 </body>
 </html>
