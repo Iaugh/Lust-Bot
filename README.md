@@ -37,15 +37,7 @@
 `,kiss` Kiss someone Usage: ,kiss >@user> <br>
 `,slap` Slap someone Usage: ,slap >@user> <br>
 `,8ball` 8ball a question Usage: ,8ball >question> <br>
-
-<t>Misc</t>
->`,snipe` Snipes a deleted message Usage: ,snipe <br>
-`,nuke` Displays the antinuke commands Usage: ,nuke <br>
-`,stats` Shows the server antinuke stats Usage: ,stats <br>
-`,log` Sets antinuke logs Usage: ,log <br>
-`,limits` Displays the server limits Usage: ,limits <br>
-`,recent` Shows the recent activity in the servers Usage: ,recents <br>
-`,reset` Reset the antinuke limit settings Usage: ,reset limits <br>
+`,snipe` Snipes a deleted message Usage: ,snipe <br>
 
 </body>
 </html>
